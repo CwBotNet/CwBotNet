@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raj sahani</h1>
-<h3 align="center">- 👀 I’m interested in fullstack development - 🌱 I’m currently learning web3 development - 💞️ I’m looking to collaborate on web3 projects</h3>
+<h3 align="center">👀 I’m interested in fullstack development 🌱 I’m currently learning web3 development 💞️ I’m looking to collaborate on web3 projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cwbotnet&label=Profile%20views&color=0e75b6&style=flat" alt="cwbotnet" /> </p>
 
