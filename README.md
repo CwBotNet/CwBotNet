@@ -9,9 +9,9 @@ Full-Stack Web Developer with 2 years of experience in designing, developing, an
 * 🌍  I'm based in india
 * ✉️  You can contact me at [rajsahaniofficial19@gmail.com](mailto:rajsahaniofficial19@gmail.com)
 * 🚀  I'm currently working on [Discord clone](http://github.com/CwBotNet/Discord-clone)
-* 🧠  I'm learning asp.net core, wrtc web-socket, rust
+* 🧠  I'm learning asp.net core, wrtc web-socket, rust, OWASP API Security
 * 🤝  I'm open to collaborating on web 2 application
-* ⚡  I'm in love with anime character of onepiece Boa Hancock
+* ⚡  I'm in love with a anime character of onepiece Boa Hancock
 
 <a href="https://www.x.com/Cw_BotNet" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Cw_BotNet?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
