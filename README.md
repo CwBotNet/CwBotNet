@@ -13,8 +13,8 @@ Full-Stack Web Developer with 2 years of experience in designing, developing, an
 * 🤝  I'm open to collaborating on web 2 application
 * ⚡  I'm in love with a anime character of onepiece Boa Hancock
 
-<a href="https://www.x.com/Cw_BotNet" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Cw_BotNet?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://twitter.com/Raj_sahani22" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Raj_sahani22?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
